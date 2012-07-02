@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/franckernewein/sources/BIM/bistriweb-mobile/bistriweb-mobile-resources/src/main/scripts/app/lib/bistri/components/api'
+let g:netrw_dirhist_2='/Users/franckernewein/bistri/bistriweb-mobile/bistriweb-mobile-resources/src/main/scripts/app/view'
+let g:netrw_dirhist_3='/Users/franckernewein/.m2'
+let g:netrw_dirhist_4='/Users/franckernewein/bistri/bistriweb-mobile/bistriweb-mobile-iphone'
+let g:netrw_dirhist_5='/Users/franckernewein/bistri/bistriweb-mobile/bistriweb-mobile-resources/src/main/scripts/app/template'
+let g:netrw_dirhist_6='/Users/franckernewein/bistri/bistriweb-mobile/bistriweb-mobile-resources/src/main/www'
+let g:netrw_dirhist_7='/Users/franckernewein/bistri/bistriweb-mobile/bistriweb-mobile-resources/src/main/www/test.html'

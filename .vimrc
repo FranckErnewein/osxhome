@@ -10,4 +10,5 @@ set shiftwidth=4
 filetype plugin on
 filetype plugin indent on
 
+au BufRead,BufNewFile *.scss set filetype=scss
 
